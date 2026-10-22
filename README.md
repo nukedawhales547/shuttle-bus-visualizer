@@ -6,7 +6,7 @@
 
    - [Wiki Home](https://github.com/ugouna/shuttle-bus-visualizer/wiki) 
 
-   - [Design Wiki](https://github.com/ugouna/shuttle-bus-visualizer/wiki/Design") 
+   - [Design Wiki](https://github.com/ugouna/shuttle-bus-visualizer/wiki/Design) 
 
    - [Proposal Wiki](https://github.com/ugouna/shuttle-bus-visualizer/wiki/Proposal)
 
@@ -15,6 +15,6 @@
     - [Design: User Stories & Acceptance](docs/design/user-stories.md)
     - [Design: Architecture & Components](docs/design/Architecture.md)
     - [Design: Data & Content](docs/design/data-content.md)
-    - [Design: Risks & Constraints](docs/design/risks-constraints.md)
+    - [Design: Risks & Constraints](docs/design/risk-constraints.md)
 
 
