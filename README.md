@@ -4,11 +4,11 @@
 
 - **Wiki**
 
-    <a src="https://github.com/ugouna/shuttle-bus-visualizer/wiki"> Wiki Home </a>
+   - [Wiki Home](https://github.com/ugouna/shuttle-bus-visualizer/wiki) 
 
-    <a src="https://github.com/ugouna/shuttle-bus-visualizer/wiki/Design"> Design Wiki  </a>
-    
-    <a src="https://github.com/ugouna/shuttle-bus-visualizer/wiki/Proposal"> Proposal Wiki </a>
+   - [Design Wiki](https://github.com/ugouna/shuttle-bus-visualizer/wiki/Design") 
+
+   - [Proposal Wiki](https://github.com/ugouna/shuttle-bus-visualizer/wiki/Proposal)
 
 
 - **In-Repo Drafts (reviewed via PRs)**
