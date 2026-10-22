@@ -24,9 +24,9 @@ Based on these two user stories there are 2-3 requirements and feature nessecary
 **Requirement 3:** Seth's requested pick up location pin to identify where exactly he'll be getting picked up from. This will benefit all residence students.
 
 ## Next steps
--[] Design an eta system that tracks the shuttles where abouts and estimates how long it'll take to arrive
+- [] Design an eta system that tracks the shuttles where abouts and estimates how long it'll take to arrive
 
--[] Implement a system in the shuttle buses that allows the drivers to notify the app when they've passed a location or are arriving aswell as giving a pin of where the next pick up will be.
+- [] Implement a system in the shuttle buses that allows the drivers to notify the app when they've passed a location or are arriving aswell as giving a pin of where the next pick up will be.
 
 
 
