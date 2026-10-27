@@ -17,6 +17,6 @@
 ### Simple Design & Setup Improvements (Next Steps)
 - **Idea 1 (Ayaan):** Create 5 standard labels (`docs`, `feature`, `priority high`, `priority med`, `priority low`) so anyone can label tasks easily.
 - **Idea 2 (Muhammad):** Create 2 project milestones (`proposal-signoff` and `sprint-1`) so everyone clearly sees our upcoming deadlines.
-- **Idea 3 (Amaar):** Write 8 to 12 simple GitHub issues with clear titles and descriptions based on our Wiki design pages[cite: 6].
+- **Idea 3 (Amaar):** Write 8 to 12 simple GitHub issues with clear titles and descriptions based on our Wiki design pages.
 - **Idea 4 (Ugo):** Set up a clean Kanban project board with `Todo`, `In progress`, and `Done` columns to track workload fairly.
 - **Idea 5 (Abonde):** Create basic saved board views (`My issues` and `By milestone`) so members can quickly view their own work.
