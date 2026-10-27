@@ -7,8 +7,16 @@
 - **PR Review Tone:** Reviews must be polite, constructive, and actionable.
 
 ## 2. Inclusivity Drill (Design Improvements)
-- **Idea 1 (Ayaan):** Add a high-contrast mode and large text toggle for visual accessibility.
-- **Idea 2 (Muhammad):** Add multi-language user interface to support for international students.
-- **Idea 3 (Amaar):** Ensure screen-reader support and keyboard navigation for all map controls.
-- **Idea 4 (Ugo):** Provide offline schedule viewing for users with limited mobile data.
-- **Idea 5 (Abonde):** Display wheelchair-accessible indicators for shuttles and campus stops.
+### Assigned Roles (Rotates Weekly)
+- **Facilitator:** Ayaan
+- **Scribe:** Amaar 
+- **Contributor 1:** Abonde 
+- **Contributor 2:** Muhammad 
+- **Contributor 3:** Ugo 
+
+### Simple Design & Setup Improvements (Next Steps)
+- **Idea 1 (Ayaan):** Create 5 standard labels (`docs`, `feature`, `priority high`, `priority med`, `priority low`) so anyone can label tasks easily.
+- **Idea 2 (Muhammad):** Create 2 project milestones (`proposal-signoff` and `sprint-1`) so everyone clearly sees our upcoming deadlines.
+- **Idea 3 (Amaar):** Write 8 to 12 simple GitHub issues with clear titles and descriptions based on our Wiki design pages[cite: 6].
+- **Idea 4 (Ugo):** Set up a clean Kanban project board with `Todo`, `In progress`, and `Done` columns to track workload fairly.
+- **Idea 5 (Abonde):** Create basic saved board views (`My issues` and `By milestone`) so members can quickly view their own work.
